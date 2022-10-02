@@ -1,7 +1,7 @@
 # Inspection App
-<img src="https://github.com/eamre/angular-inspection-app/blob/main/angular/src/assets/ph1.PNG" width="800" height="200" />
-<img src="https://github.com/eamre/angular-inspection-app/blob/main/angular/src/assets/ph2.PNG" width="500" height="360" />
-<img src="https://github.com/eamre/angular-inspection-app/blob/main/angular/src/assets/ph3.PNG" width="500" height="360" />
+<img src="https://github.com/eamre/angular-inspection-app/blob/main/angular/src/assets/ph1.PNG" width="800"  />
+<img src="https://github.com/eamre/angular-inspection-app/blob/main/angular/src/assets/ph2.PNG" width="500"  />
+<img src="https://github.com/eamre/angular-inspection-app/blob/main/angular/src/assets/ph3.PNG" width="500"  />
 
 ## Inspection App
 
